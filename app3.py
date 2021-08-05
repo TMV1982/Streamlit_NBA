@@ -5,6 +5,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import base64
+import lxml
 
 st.title("NBA Player Stats Explorer")
 
